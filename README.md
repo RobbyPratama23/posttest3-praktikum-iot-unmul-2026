@@ -20,12 +20,12 @@ Data dari sensor akan dikirim ke MQTT broker, kemudian ditampilkan pada aplikasi
 
 📱 Tampilan Kodular
 Aplikasi menampilkan:
-Nilai ketinggian air
-Status level (Aman / Waspada / Bahaya)
-Status buzzer
-Posisi servo
-Tombol mode (Otomatis / Manual)
-Kontrol manual aktuator
+- Nilai ketinggian air
+- Status level (Aman / Waspada / Bahaya)
+- Status buzzer
+- Posisi servo
+- Tombol mode (Otomatis / Manual)
+- Kontrol manual aktuator
 
 🧩 Komponen yang Digunakan
 - ESP32
